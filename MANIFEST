@@ -1,0 +1,7 @@
+README
+Changes
+MANIFEST
+Makefile.PL
+t/notests.t
+script/mp3getcddb
+mp3getcddb.spec
